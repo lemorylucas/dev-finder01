@@ -1,9 +1,8 @@
 import React, { useEffect, useState } from 'react';
 
-import Header from '../../components/Header';
 import api from '../..//services/api';
 
-import { Container, Form, Main } from './styles';
+import { Container, Form, Main, Menu } from './styles';
 
 function List() {
   const [devs, setDevs] = useState([]);
@@ -58,7 +57,11 @@ function List() {
 
   return (
     <>
-    <Header />
+    <header>
+    <Menu>
+        <a href="/" className="logo">DEVFinder</a>
+      </Menu>
+    </header>
     <Container>
       <Form>
         <strong>Cadastrar</strong>

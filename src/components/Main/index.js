@@ -13,7 +13,7 @@ function Main() {
     <>
     
     <Section>
-      <h1>Trabalhe com alguém próximo à você.</h1 >
+      <h1>Encontre um dev próximo à você.</h1 >
       <p>Comece hoje mesmo algum app, solução ou website</p>
 
       <Link to="/List">
