@@ -7,7 +7,7 @@ Ainda falta o BackEnd para as conexões
 ![](https://github.com/lemorylucas/dev-finder01/blob/master/src/assets/Proffy1.1.gif)
 
 
-##Tecnologias usadas nessa interface
+## Tecnologias usadas nessa interface
 
 - *React JS*
 - *Styled Components*
